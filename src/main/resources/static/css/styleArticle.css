@@ -1,0 +1,39 @@
+
+@charset "ISO-8859-1";
+
+.article-content {
+  width: 80%;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.article-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.article-details {
+  font-size: 14px;
+  font-style: italic;
+  margin-bottom: 20px;
+  color: gray;
+}
+
+.article-text {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+
+
+.comments-section {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.small-text{
+	font-size:12px;
+}
+
+
